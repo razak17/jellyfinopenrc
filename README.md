@@ -1,5 +1,5 @@
 # jellyfinopenrc
-Just a openrc service for jellyfin that works with the AUR version.
+Just a openrc service for jellyfin that works with the AUR version (yay -S jellyfin-bin)
 
 ## Installation
 1. Install the jellyfin-bin package from the AUR.
