@@ -11,3 +11,5 @@ Just an openrc service for jellyfin that works with the AUR version
 4. sudo rc-update add jellyfind default
 
 5. sudo rc-service jellyfind start
+
+Jellyfin should now be available at localhost:8096
