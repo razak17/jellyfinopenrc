@@ -3,7 +3,7 @@
 name=$RC_SVCNAME
 description="Jellyfin Media Server"
 supervisor="supervise-daemon"
-command="/usr/lib/jellyfin/bin/jellyfin"
+command="/usr/bin/jellyfin"
 command_args="--datadir /var/lib/jellyfin --cachedir /var/cache/jellyfin --webdir /usr/share/jellyfin/web"
 command_user="jellyfin"
 
